@@ -1,0 +1,11 @@
+﻿cliente_id,nombre,correo,ciudad,departamento
+1,Carlos Pérez,carlos.perez@email.com,Popayán,Cauca
+2,Ana Gómez,ana.gomez@email.com,Cali,Valle del Cauca
+3,Luis Rodríguez,luis.rodriguez@email.com,Pasto,Nariño
+4,María López,maria.lopez@email.com,Bogotá,Cundinamarca
+5,Jorge Martínez,jorge.martinez@email.com,Medellín,Antioquia
+6,Laura Torres,laura.torres@email.com,Popayán,Cauca
+7,Andrés Castro,andres.castro@email.com,Cali,Valle del Cauca
+8,Sofía Ramírez,sofia.ramirez@email.com,Pasto,Nariño
+9,Juan Martínez,juan.martinez@email.com,Bogotá,Cundinamarca
+10,Valentina Ruiz,valentina.ruiz@email.com,Medellín,Antioquia

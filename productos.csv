@@ -1,0 +1,11 @@
+﻿producto_id,nombre,categoria,proveedor_id,precio
+101,Laptop Lenovo,Computadores,1,2500000
+102,Mouse Logitech,Accesorios,2,85000
+103,Teclado Logitech,Accesorios,2,140000
+104,Monitor Samsung 24,Monitores,3,720000
+105,Disco SSD 1TB,Almacenamiento,1,380000
+106,Memoria RAM 16GB,Componentes,4,260000
+107,Impresora HP,Impresoras,3,690000
+108,Webcam Logitech,Accesorios,2,210000
+109,Laptop HP,Computadores,5,2850000
+110,Monitor LG 27,Monitores,3,980000
